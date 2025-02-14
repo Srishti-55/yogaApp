@@ -35,13 +35,6 @@ async function run() {
     const ordersCollection = database.collection("orders")
     const enrolledCollection = database.collection("enrolled")
     const appliedCollection = database.collection("applied")
-    
-
-
-
-
-
-
 
 
     // Send a ping to confirm a successful connection
